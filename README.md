@@ -2,7 +2,9 @@
 
 Developed by: Brent Passmore
 
-Website URL: http://bpmo.re
+Website URL: http://bpmo.re (demo)
+
+Website URL: http://brentpassmore.com (live site)
 
 ## License
 
@@ -14,7 +16,11 @@ The Solace Theme requires the Genesis Framework which can be purchased at http:/
 
 ## Terms of Use
 
-TBD
+The Solace Theme does not include support.
+
+I reserve the right to modify these terms or remove the theme entirely from GitHub at my discretion.
+
+Thanks to @bgardner for the inspiration and the Genesis Framework.
 
 ## Theme Setup
 
