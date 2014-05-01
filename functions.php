@@ -46,7 +46,7 @@ if( !is_single() )
 add_action( 'wp_enqueue_scripts', 'solace_google_fonts' );
 function solace_google_fonts() {
 
-	wp_enqueue_style( 'google-fonts', '//fonts.googleapis.com/css?family=Josefin+Sans:300,400|Old+Standard+TT:400,300', array(), CHILD_THEME_VERSION );
+	wp_enqueue_style( 'google-fonts', '//fonts.googleapis.com/css?family=Josefin+Sans:300,400', array(), CHILD_THEME_VERSION );
 	
 }
 
