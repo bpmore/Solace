@@ -1,11 +1,11 @@
 ## Solace Theme
 
-Developed by: Brent Passmore
-![Solace screenshot image](https://raw.githubusercontent.com/bpmore/Solace/master/screenshot.png)
-
 Website URL: http://bpmo.re (demo)
 
 Website URL: http://brentpassmore.com (live site)
+
+Developed by: Brent Passmore
+![Solace screenshot image](https://raw.githubusercontent.com/bpmore/Solace/master/screenshot.png)
 
 ### License
 
